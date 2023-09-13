@@ -19,5 +19,5 @@ I used Python for this program
 # Useful Websites
 
 
-* W3Schools is a good resource, though any coding website can probably help with a program like this.
+
 *[W3Schools](https://www.w3schools.com/python/)
